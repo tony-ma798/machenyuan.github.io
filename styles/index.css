@@ -1,0 +1,30 @@
+.card {
+  width: 600px;
+  min-height: 500px;
+  margin: 0 auto;
+}
+
+.business-hours {
+  margin-bottom: 20px;
+}
+
+.card-title {
+  margin-top: 20px;
+}
+
+#submit {
+  width: 360px;
+  height: 60px;
+  display: inline-flex;
+  align-items: center;
+  border-radius: 255px;
+  position: relative;
+  top: 30px;
+  font-size: 24px;
+  justify-content: center;
+  left: calc(50% - 180px);
+}
+
+.successTitle {
+  text-decoration: underline;
+}

@@ -1,0 +1,45 @@
+
+
+.our-team {
+  display: flex;
+  gap: 84px;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.our-team-avatar {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  border: 1px dashed #333;
+}
+.our-team-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.our-team-item p {
+  width: 200px;
+  margin-top: 24px;
+  font-size: 16px;
+}
+
+.contact-us {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 32px;
+  margin-bottom: 50px;
+  font-size: 16px;
+}
+
+.contact-methods {
+  width: 600px;
+  text-align: left;
+  margin-left: 300px;
+  font-size: 16px;
+}
+
